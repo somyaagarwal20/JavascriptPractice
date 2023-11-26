@@ -2,9 +2,11 @@ let obj={
     harry:'90',
     somya:'95',
     shivam:'50',
-    harshit:'0',
+    harshita:'10',
     shiv:'12',
+    rish:'50',
 }
+
 //for in loop
 for(let a in obj){
     console.log("marks of "+ a +" are " +obj[a])
