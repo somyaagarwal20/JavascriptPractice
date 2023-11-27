@@ -1,7 +1,7 @@
 let obj={
     harry:'90',
     somya:'95',
-    shivam:'50',
+    shivam:'30',
     harshita:'10',
     shiv:'12',
     rish:'50',
